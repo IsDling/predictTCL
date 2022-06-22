@@ -32,4 +32,4 @@ Implementation for Joint Prediction of Meningioma Grade and Brain Invasion via T
 
 -Firstly, run make_randomfolders.py to make 3 random folder data. 
 
--Then run python main.py to train and test. Change the parameter ‘run_type’ in main.py to ‘train’ for train and ‘test’ for test.
+-Then， run python main.py to train and test. Change the parameter ‘run_type’ in main.py to ‘train’ for train and ‘test’ for test.
