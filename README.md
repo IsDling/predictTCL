@@ -10,6 +10,7 @@ Implementation for Joint Prediction of Meningioma Grade and Brain Invasion via T
 
 **File structure**
 -sup
+
 -----contrastive_loss.py
 -----data_provider.py
 -----make_randomfolders.py
@@ -17,6 +18,7 @@ Implementation for Joint Prediction of Meningioma Grade and Brain Invasion via T
 -----predictTCL.py
 -----resnet3d.py
 -----scheduler.py
+
 -main.py
 
 **Running the Code**
