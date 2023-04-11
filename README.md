@@ -1,5 +1,5 @@
 # predictTCL
-Implementation for Joint Prediction of Meningioma Grade and Brain Invasion via Task-Aware Contrastive Learning in pytorch. MICCAI 2022 accept.
+Implementation for "Joint Prediction of Meningioma Grade and Brain Invasion via Task-Aware Contrastive Learning"[https://arxiv.org/pdf/2209.01517] in pytorch. MICCAI 2022 accept.
 
 **Requirements**
 - Python 3
